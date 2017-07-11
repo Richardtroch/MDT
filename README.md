@@ -1,2 +1,2 @@
 # MDT
-Microsoft Deployment Toolkit related files and scripts
+Various files and scripts for  the Microsoft Deployment Toolkit. Use at your own risk.
